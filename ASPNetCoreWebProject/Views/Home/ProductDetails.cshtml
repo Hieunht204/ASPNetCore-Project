@@ -1,0 +1,21 @@
+﻿@model ASPNetCoreWebProject.Models.ProductViewModel
+
+<h2>Chi tiết sản phẩm</h2>
+
+<div class="card mb-3" style="max-width: 800px;">
+    <div class="row g-0">
+        <div class="col-md-4">
+            <img src="@Model.ImageUrl" class="img-fluid rounded-start" alt="@Model.ProductName">
+        </div>
+        <div class="col-md-8">
+            <div class="card-body">
+                <h5 class="card-title">@Model.ProductName</h5>
+                <p class="card-text"><strong>Loại:</strong> @Model.ProductType</p>
+                <p class="card-text"><strong>Màu sắc:</strong> @Model.Color</p>
+                <p class="card-text"><strong>Xuất xứ:</strong> @Model.Origin</p>
+                <p class="card-text"><strong>Thông tin khác:</strong> @Model.OtherInformation</p>
+                <a asp-action="Index" class="btn btn-secondary mt-3">Quay về</a>
+            </div>
+        </div>
+    </div>
+</div>

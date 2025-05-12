@@ -2,20 +2,75 @@
     ViewData["Title"] = "Home Page";
 }
 
-<form asp-controller="Account" asp-action="Logout" method="post">
-    <button type="submit" class="btn btn-danger">Đăng xuất</button>
-</form>
-
+@model List<ASPNetCoreWebProject.Models.ProductViewModel>
 
 @if (User.Identity.IsAuthenticated)
 {
-    <p>Hello, @User.Identity.Name!</p>
 
     @if (User.IsInRole("Customer"))
     {
         <div class="text-center">
             <h1 class="display-4">Bạn là customer</h1>
-            <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+
+        <h3>Danh mục</h3>
+
+        <div class="d-inline-flex flex-wrap gap-3 mb-4">
+            <form asp-action="Index" method="get">
+                <input type="hidden" name="type" value="Bút" />
+                <button type="submit" class="btn btn-outline-primary">
+                    @* <img src="~/images/icons/pen.png" alt="Bút" style="width: 30px;" /> *@
+                    <div>Bút</div>
+                </button>
+            </form>
+
+            <form asp-action="Index" method="get">
+                <input type="hidden" name="type" value="Sổ" />
+                <button type="submit" class="btn btn-outline-primary">
+                    @* <img src="~/images/icons/notebook.png" alt="Sổ" style="width: 30px;" /> *@
+                    <div>Sổ</div>
+                </button>
+            </form>
+
+            <form asp-action="Index" method="get">
+                <input type="hidden" name="type" value="Giấy" />
+                <button type="submit" class="btn btn-outline-primary">
+                    @* <img src="~/images/icons/notebook.png" alt="Giấy" style="width: 30px;" /> *@
+                    <div>Giấy</div>
+                </button>
+            </form>
+
+            <form asp-action="Index" method="get">
+                <input type="hidden" name="type" value="Hộp" />
+                <button type="submit" class="btn btn-outline-primary">
+                    @* <img src="~/images/icons/box.png" alt="Hộp" style="width: 30px;" /> *@
+                    <div>Hộp</div>
+                </button>
+            </form>
+
+            <form asp-action="Index" method="get">
+                <input type="hidden" name="type" value="Dụng cụ" />
+                <button type="submit" class="btn btn-outline-primary">
+                    @* <img src="~/images/icons/tools.png" alt="Dụng cụ" style="width: 30px;" /> *@
+                    <div>Dụng cụ</div>
+                </button>
+            </form>
+        </div>
+
+        <h2>Sản phẩm mới</h2>
+        <div class="row">
+            @foreach (var product in Model)
+            {
+                <a asp-action="ProductDetails" asp-route-id="@product.ProductId" style="text-decoration: none; color: inherit;" class="col-sm-6 col-md-4 col-lg-3">
+                    <div class="card mb-3 shadow-sm">
+                        <img src="@product.ImageUrl" class="card-img-top" alt="@product.ProductName" style="height: 200px; object-fit: cover;" />
+                        <div class="card-body">
+                            <h5 class="card-title">@product.ProductName</h5>
+                            @* <p class="card-text"><small class="text-muted">@product.ProductType</small></p> *@
+                        </div>
+                    </div>
+                </a>
+            }
         </div>
 
     }
@@ -23,7 +78,6 @@
     {
         <div class="text-center">
             <h1 class="display-4">Bạn là shipper</h1>
-            <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
         </div>
 
     }

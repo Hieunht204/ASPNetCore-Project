@@ -1,0 +1,560 @@
+[{
+  "_id": {
+    "$oid": "676c421cad37cabd0b2cc806"
+  },
+  "TYPE": "Bút",
+  "DATA": [
+    {
+      "PRODUCT_ID": "prd1",
+      "PRODUCT_NAME": "Bút Bi Mực Gel Resun",
+      "OTHER_INFORMATION": "Mực Đen/Đỏ",
+      "COLOR": "Đen, xanh, đỏ",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20Bi%20M%E1%BB%B1c%20Gel%20Resun.jpg?alt=media&token=165aa91c-0663-4aeb-81d0-c024e33d03e1"
+    },
+    {
+      "PRODUCT_ID": "prd18",
+      "PRODUCT_NAME": "Bút lông",
+      "OTHER_INFORMATION": "Vẽ tranh phác thảo",
+      "COLOR": "Xanh, đen",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20l%C3%B4ng.jpg?alt=media&token=5d77a81e-363a-4ee2-8702-ed2398405f12"
+    },
+    {
+      "PRODUCT_ID": "prd2",
+      "PRODUCT_NAME": "Bút bi 10 màu",
+      "OTHER_INFORMATION": "Đánh dấu nhiều màu",
+      "COLOR": "Pastel",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20bi%2010%20m%C3%A0u.jpg?alt=media&token=97ea6e66-09e8-4281-9abd-8e083bda1d19"
+    },
+    {
+      "PRODUCT_ID": "prd26",
+      "PRODUCT_NAME": "Chiếc bút bi đen",
+      "OTHER_INFORMATION": "Viết trơn, mực nhanh khô",
+      "COLOR": "Đen",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FChi%E1%BA%BFc%20b%C3%BAt%20bi%20%C4%91en.jpg?alt=media&token=8fb529e5-ad5d-4bc1-93e3-30500e4c2707"
+    },
+    {
+      "PRODUCT_ID": "prd3",
+      "PRODUCT_NAME": "Bút viết calligraphy",
+      "OTHER_INFORMATION": "Bút Nước",
+      "COLOR": "Xanh, đen, đỏ",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20vi%E1%BA%BFt%20calligraphy.jpg?alt=media&token=88f22aa7-42b8-4f58-b1bc-6890e0a8443b"
+    },
+    {
+      "PRODUCT_ID": "prd32",
+      "PRODUCT_NAME": "Cây bút chì gỗ",
+      "OTHER_INFORMATION": "Ngòi 2B, dễ gọt",
+      "COLOR": "Nâu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FC%C3%A2y%20b%C3%BAt%20ch%C3%AC%20g%E1%BB%97.jpg?alt=media&token=08d69ec4-9c33-4c01-a762-835d1eb48e0a"
+    },
+    {
+      "PRODUCT_ID": "prd35",
+      "PRODUCT_NAME": "Bút dạ quang",
+      "OTHER_INFORMATION": "Màu vàng, bút dạ tiện dụng",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20d%E1%BA%A1%20quang.jpg?alt=media&token=4471681b-c682-44d0-a393-053d2f093b2e"
+    },
+    {
+      "PRODUCT_ID": "prd4",
+      "PRODUCT_NAME": "Bút mực gel Mira",
+      "OTHER_INFORMATION": "Cute",
+      "COLOR": "Xanh, đen, đỏ",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20m%E1%BB%B1c%20gel%20Mira.jpg?alt=media&token=009766f5-7a45-4b73-ba65-c43d78b5a5a2"
+    },
+    {
+      "PRODUCT_ID": "prd42",
+      "PRODUCT_NAME": "Bút lông dầu",
+      "OTHER_INFORMATION": "Mực không phai, màu đen",
+      "COLOR": "Xanh, đen",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20l%C3%B4ng%20d%E1%BA%A7u.jpg?alt=media&token=1b5a54d4-d6af-4994-aa78-1f8c979c258d"
+    },
+    {
+      "PRODUCT_ID": "prd45",
+      "PRODUCT_NAME": "Bút bi Thiên Long",
+      "OTHER_INFORMATION": "Mực xanh, viết trơn, hãng Thiên Long",
+      "COLOR": "Xanh",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20bi%20Thi%C3%AAn%20Long.jpg?alt=media&token=a10f1338-9f18-4cc4-b2ff-a78f26807c7"
+    },
+    {
+      "PRODUCT_ID": "prd5",
+      "PRODUCT_NAME": "Bút dạ quang",
+      "OTHER_INFORMATION": "Tone pastel",
+      "COLOR": "Pastel",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20d%E1%BA%A1%20quang.jpg?alt=media&token=4471681b-c682-44d0-a393-053d2f093b2e"
+    },
+    {
+      "PRODUCT_ID": "prd51",
+      "PRODUCT_NAME": "Bút chì gỗ Faber-Castell",
+      "OTHER_INFORMATION": "Ngòi 2B, dễ gọt, hãng Faber-Castell",
+      "COLOR": "Nâu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20ch%C3%AC%20g%E1%BB%97%20Faber-Castell.jpg?alt=media&token=3d71084d-a07e-4e87-b582-7d07e28519c6"
+    },
+    {
+      "PRODUCT_ID": "prd57",
+      "PRODUCT_NAME": "Bút lông dầu Sharpie",
+      "OTHER_INFORMATION": "Mực đen, chống nước, hãng Sharpie",
+      "COLOR": "Xanh, đen",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20l%C3%B4ng%20d%E1%BA%A7u%20Sharpie.jpg?alt=media&token=378a26b9-297e-4424-b099-00bd1eb398cb"
+    },
+    {
+      "PRODUCT_ID": "prd6",
+      "PRODUCT_NAME": "10 bút chì lục giác Deli",
+      "OTHER_INFORMATION": "Vẽ mỹ thuật",
+      "COLOR": "Hồng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2F10%20b%C3%BAt%20ch%C3%AC%20l%E1%BB%A5c%20gi%C3%A1c%20Deli.jpg?alt=media&token=3a30c878-391e-49e9-bb65-f84ceb5e3a9c"
+    },
+    {
+      "PRODUCT_ID": "prd62",
+      "PRODUCT_NAME": "Bút bi Parker",
+      "OTHER_INFORMATION": "Mực xanh, sang trọng, hãng Parker",
+      "COLOR": "Xanh, đen, đỏ",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20bi%20Parker.jpg?alt=media&token=f8328d10-dbef-47a9-92f1-7ec363f26a21"
+    },
+    {
+      "PRODUCT_ID": "prd64",
+      "PRODUCT_NAME": "Bút máy Pilot",
+      "OTHER_INFORMATION": "Ngòi kim, mực đen, hãng Pilot",
+      "COLOR": "Xanh, đen, tím",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20m%C3%A1y%20Pilot.jpg?alt=media&token=896b0ea2-6776-43d3-9c7e-643bd1cea570"
+    },
+    {
+      "PRODUCT_ID": "prd65",
+      "PRODUCT_NAME": "Bộ bút chì màu",
+      "OTHER_INFORMATION": "12 màu, dễ tô, không lem",
+      "COLOR": "12 màu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%E1%BB%99%20b%C3%BAt%20ch%C3%AC%20m%C3%A0u.png?alt=media&token=001cf149-78f7-4bf3-9ff7-4332b1e31363"
+    },
+    {
+      "PRODUCT_ID": "prd7",
+      "PRODUCT_NAME": "Bút Bi Macaron",
+      "OTHER_INFORMATION": "Siêu đẹp",
+      "COLOR": "Xanh, đen, đỏ",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20Bi%20Macaron.jpg?alt=media&token=d83eb274-159c-4664-9215-1b984a62c644"
+    },
+    {
+      "PRODUCT_ID": "prd8",
+      "PRODUCT_NAME": "Bút chì gỗ HB",
+      "OTHER_INFORMATION": "Tiện lợi",
+      "COLOR": "Đen",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20ch%C3%AC%20g%E1%BB%97%20HB.jpg?alt=media&token=ebf27e94-4627-4467-adac-1b44b4d427d9"
+    },
+    {
+      "PRODUCT_ID": "prd9",
+      "PRODUCT_NAME": "Bút lông",
+      "OTHER_INFORMATION": "Vẽ tranh phác thảo",
+      "COLOR": "Xanh, đỏ, đen",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/B%C3%BAt%2FB%C3%BAt%20l%C3%B4ng.jpg?alt=media&token=5d77a81e-363a-4ee2-8702-ed2398405f12"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c424cad37cabd0b2cc807"
+  },
+  "TYPE": "Sổ",
+  "DATA": [
+    {
+      "PRODUCT_ID": "prd10",
+      "PRODUCT_NAME": "Sổ tay ghi chép",
+      "OTHER_INFORMATION": "Lưu niệm",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FS%E1%BB%95%20tay%20ghi%20ch%C3%A9p.jpg?alt=media&token=4421a085-...cec82a79"
+    },
+    {
+      "PRODUCT_ID": "prd11",
+      "PRODUCT_NAME": "Sổ lò xo",
+      "OTHER_INFORMATION": "120 trang",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FS%C3%B4%CC%89%20l%C3%B2%20xo.jpg?alt=media&token=6a58e148-6736-4...cca0263e"
+    },
+    {
+      "PRODUCT_ID": "prd27",
+      "PRODUCT_NAME": "Cuốn sổ tay nhỏ",
+      "OTHER_INFORMATION": "Giấy mịn, phù hợp ghi chú",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FCu%E1%BB%91n%20s%E1%BB%95%20tay%20nh%E1%BB%8F.jpg?alt=media&toke...c44e9c91"
+    },
+    {
+      "PRODUCT_ID": "prd30",
+      "PRODUCT_NAME": "Cuốn lịch để bàn",
+      "OTHER_INFORMATION": "Thiết kế tối giản, tiện dụng",
+      "COLOR": "Xanh, trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://innovavietnam.vn/wp-content/uploads/mau-lich-de-ban.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd36",
+      "PRODUCT_NAME": "Sổ lò xo",
+      "OTHER_INFORMATION": "Bìa cứng, giấy trắng đẹp",
+      "COLOR": "Vàng, hồng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FS%E1%BB%95%20l%C3%B2%20xo.jpg?alt=media&token=94902e9d-05ce-4ee0...642a2bd5"
+    },
+    {
+      "PRODUCT_ID": "prd41",
+      "PRODUCT_NAME": "Lịch treo tường",
+      "OTHER_INFORMATION": "Thiết kế đẹp, dễ nhìn",
+      "COLOR": "Xanh, hồng, đỏ",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FL%E1%BB%8Bch%20treo%20t%C6%B0%E1%BB%9Dng.jpg?alt=media&token=42a...8a61ef37"
+    },
+    {
+      "PRODUCT_ID": "prd44",
+      "PRODUCT_NAME": "Quyển sổ bìa da",
+      "OTHER_INFORMATION": "Bìa cứng, giấy dày, sang trọng",
+      "COLOR": "Nâu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FQuy%E1%BB%83n%20s%E1%BB%95%20b%C3%ACa%20da.jpg?alt=media&token=3...8d78633f"
+    },
+    {
+      "PRODUCT_ID": "prd46",
+      "PRODUCT_NAME": "Sổ tay mini",
+      "OTHER_INFORMATION": "Kích thước nhỏ, dễ mang theo",
+      "COLOR": "Xanh lá, tím",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FS%E1%BB%95%20tay%20mini.jpg?alt=media&token=63889023-8f3e-46a3-a...71aa7a99"
+    },
+    {
+      "PRODUCT_ID": "prd58",
+      "PRODUCT_NAME": "Sổ tay Moleskine",
+      "OTHER_INFORMATION": "Bìa cứng, giấy màu ngà, hãng Moleskine",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/S%E1%BB%95%2FS%E1%BB%95%20tay%20Moleskine.jpg?alt=media&token=71d3edf9-e918-4...519b17f5"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c426ead37cabd0b2cc808"
+  },
+  "TYPE": "Giấy",
+  "DATA": [
+    {
+      "PRODUCT_ID": "prd12",
+      "PRODUCT_NAME": "Set 100 tờ giấy ghi chú",
+      "OTHER_INFORMATION": "Tiện lợi",
+      "COLOR": "Xanh, hồng, vàng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://down-vn.img.susercontent.com/file/vn-11134207-7r98o-lmnd85ht50bjd1"
+    },
+    {
+      "PRODUCT_ID": "prd13",
+      "PRODUCT_NAME": "Giấy nháp",
+      "OTHER_INFORMATION": "Vẽ tranh phác thảo",
+      "COLOR": "Trắng, vàng",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/Gi%E1%BA%A5y%2FGi%E1%BA%A5y%20nh%C3%A1p.jpg?alt=media&token=e522d59e-b807-44e...de2438b3"
+    },
+    {
+      "PRODUCT_ID": "prd14",
+      "PRODUCT_NAME": "Giấy gấp Sao",
+      "OTHER_INFORMATION": "Set 540 tờ",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/Gi%E1%BA%A5y%2FGi%E1%BA%A5y%20g%E1%BA%A5p%20Sao.jpg?alt=media&token=eaa19ae1-...f630094d"
+    },
+    {
+      "PRODUCT_ID": "prd21",
+      "PRODUCT_NAME": "Đánh dấu trang",
+      "OTHER_INFORMATION": "Set 200 tờ",
+      "COLOR": "Xanh, hồng, vàng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/Gi%E1%BA%A5y%2F%C4%90%C3%A1nh%20d%E1%BA%A5u%20trang.jpg?alt=media&token=d2c25...8f4a98ef"
+    },
+    {
+      "PRODUCT_ID": "prd33",
+      "PRODUCT_NAME": "33 tập giấy ghi chú",
+      "OTHER_INFORMATION": "200 tờ, màu sắc tươi sáng",
+      "COLOR": "Xanh, hồng, vàng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://www.tth.com.vn/datafiles/400/upload/images/VPP%20TTH/Gi%E1%BA%A5y%20ghi%20ch%C3%BA-%20ph%C3%A2n%20trang%20T-H/gi%E1%BA%A5y%20note%20t%E1%BB%95ng%20h%E1%BB%A3p/GI%E1%BA%A4Y%20NOTE%203%20M%C3%80U%200033-2.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd49",
+      "PRODUCT_NAME": "Giấy note",
+      "OTHER_INFORMATION": "Set 500 tờ, nhiều màu sắc",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/Gi%E1%BA%A5y%2FGi%E1%BA%A5y%20note.jpg?alt=media&token=e9dbd1a2-95c7-49d1-859...4c4a11c0"
+    },
+    {
+      "PRODUCT_ID": "prd52",
+      "PRODUCT_NAME": "Tập giấy note Stickee",
+      "OTHER_INFORMATION": "100 tờ, kích thước 7x7cm, hãng Stickee",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/Gi%E1%BA%A5y%2FT%E1%BA%ADp%20gi%E1%BA%A5y%20note%20Stickee.jpg?alt=media&toke...b31a2164"
+    },
+    {
+      "PRODUCT_ID": "prd60",
+      "PRODUCT_NAME": "Tập hồ sơ Thiên Long",
+      "OTHER_INFORMATION": "100 tờ, giấy trắng mịn, hãng Thiên Long",
+      "COLOR": "Trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://product.hstatic.net/1000230347/product/df-001_17_c6421b609c70421294a9d228ff009ae7.jpg"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c428cad37cabd0b2cc809"
+  },
+  "TYPE": "Hộp",
+  "DATA": [
+    {
+      "PRODUCT_ID": "prd15",
+      "PRODUCT_NAME": "Hộp cắm bút",
+      "OTHER_INFORMATION": "Đa chức năng",
+      "COLOR": "Xanh trong suốt",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/H%E1%BB%99p%2FH%E1%BB%99p%20c%E1%BA%AFm%20b%C3%BAt.jpg?alt=media&token=e586d9d1-94be-40f2-9954-a97a0c716601"
+    },
+    {
+      "PRODUCT_ID": "prd17",
+      "PRODUCT_NAME": "Hộp bút trong suốt",
+      "OTHER_INFORMATION": "Phong cách Hàn Quốc",
+      "COLOR": "Trong suốt",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/H%E1%BB%99p%2FH%E1%BB%99p%20b%C3%BAt%20trong%20su%E1%BB%91t.jpg?alt=media&token=411e8502-30c1-4e25-b2ff-65e9eb5956a2"
+    },
+    {
+      "PRODUCT_ID": "prd23",
+      "PRODUCT_NAME": "Túi đựng tài liệu",
+      "OTHER_INFORMATION": "Nhiều ngăn",
+      "COLOR": "Xanh, vàng, trắng, tím",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/H%E1%BB%99p%2FT%C3%BAi%20%C4%91%E1%BB%B1ng%20t%C3%A0i%20li%E1%BB%87u.jpg?alt=media&token=4a5b0faf-c8e2-4cbe-8df1-c4af13af6fbd"
+    },
+    {
+      "PRODUCT_ID": "prd50",
+      "PRODUCT_NAME": "Túi giấy",
+      "OTHER_INFORMATION": "Túi kraft, nhiều kích thước",
+      "COLOR": "Trắng, nâu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/H%E1%BB%99p%2FT%C3%BAi%20gi%E1%BA%A5y.jpg?alt=media&token=1ce4ddf1-b419-4164-b11e-a5a354972886"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "676c42b2ad37cabd0b2cc80a"
+  },
+  "TYPE": "Dụng cụ",
+  "DATA": [
+    {
+      "PRODUCT_ID": "prd16",
+      "PRODUCT_NAME": "Dao rọc giấy",
+      "OTHER_INFORMATION": "Vỏ kim loại",
+      "COLOR": "Đỏ, xanh, vàng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FDao%20r%E1%BB%8Dc%20gi%E1%BA%A5y.jpg?alt=media&to...36c6da05"
+    },
+    {
+      "PRODUCT_ID": "prd19",
+      "PRODUCT_NAME": "Tẩy bút chì",
+      "OTHER_INFORMATION": "Dễ thương",
+      "COLOR": "Be",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FT%E1%BA%A9y%20b%C3%BAt%20ch%C3%AC.jpg?alt=media&t...12212426"
+    },
+    {
+      "PRODUCT_ID": "prd20",
+      "PRODUCT_NAME": "Dụng cụ bấm lỗ giấy",
+      "OTHER_INFORMATION": "Văn phòng",
+      "COLOR": "Xanh",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://www.anlocviet.vn/upload/images/bam-lo.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd22",
+      "PRODUCT_NAME": "Kéo cắt giấy",
+      "OTHER_INFORMATION": "An toàn",
+      "COLOR": "Xanh, vàng, hồng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://product.hstatic.net/1000362139/product/keo_plus2_a12e3a4cda4d48109d3a9882f55c7d08_grande.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd24",
+      "PRODUCT_NAME": "Sticker không thấm nước",
+      "OTHER_INFORMATION": "Hoạt hình dễ thương",
+      "COLOR": "Nhiều màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://pos.nvncdn.com/cba2a3-7534/ps/20240202_R0XBmqGHSJ.jpeg"
+    },
+    {
+      "PRODUCT_ID": "prd25",
+      "PRODUCT_NAME": "25 chiếc miếng dán sticker",
+      "OTHER_INFORMATION": "Hoạt hình trang trí",
+      "COLOR": "Nhiều màu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://down-vn.img.susercontent.com/file/sg-11134201-7rdxf-lxrsg1r8ewm7b5"
+    },
+    {
+      "PRODUCT_ID": "prd28",
+      "PRODUCT_NAME": "Kẹp giấy màu",
+      "OTHER_INFORMATION": "Kích thước 32mm, nhiều màu sắc",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://www.anlocviet.vn/upload/product/vyg1480051925-694.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd29",
+      "PRODUCT_NAME": "Thước kẻ nhựa",
+      "OTHER_INFORMATION": "Chiều dài 20cm, chất liệu bền",
+      "COLOR": "Vàng, trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://nhasachphuongnam.com/images/detailed/207/1_3d02-dj.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd31",
+      "PRODUCT_NAME": "Tẩy gôm mềm",
+      "OTHER_INFORMATION": "Xóa sạch, không lem giấy",
+      "COLOR": "Trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://down-vn.img.susercontent.com/file/vn-11134201-7r98o-lmzgj9msuw2n76"
+    },
+    {
+      "PRODUCT_ID": "prd34",
+      "PRODUCT_NAME": "Chiếc bìa hồ sơ",
+      "OTHER_INFORMATION": "Chất liệu nhựa dẻo, nhiều màu",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://anlocviet.com/wp-content/uploads/bia-luu-tru-ho-so-an-loc-viet-7.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd37",
+      "PRODUCT_NAME": "Băng keo trong",
+      "OTHER_INFORMATION": "Khổ 4.8cm, độ dính cao",
+      "COLOR": "Trong suốt",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FB%C4%83ng%20keo%20trong.jpg?alt=media&token=1d1fc...89782c5b"
+    },
+    {
+      "PRODUCT_ID": "prd38",
+      "PRODUCT_NAME": "Bút xóa",
+      "OTHER_INFORMATION": "Chất lỏng, khô nhanh",
+      "COLOR": "Xanh",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FB%C3%BAt%20x%C3%B3a.jpg?alt=media&token=fb9a53c6-...1ba39f91"
+    },
+    {
+      "PRODUCT_ID": "prd39",
+      "PRODUCT_NAME": "Hộp ghim kẹp giấy",
+      "OTHER_INFORMATION": "1000 chiếc, ghim chắc chắn",
+      "COLOR": "Trắng",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://batos.vn/images/upload/images/8a062d4c2c81d0c46397d82286135c3c(1).jpg"
+    },
+    {
+      "PRODUCT_ID": "prd40",
+      "PRODUCT_NAME": "Kéo văn phòng",
+      "OTHER_INFORMATION": "Lưỡi thép không gỉ, tay cầm thoải mái",
+      "COLOR": "Đen",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FK%C3%A9o%20v%C4%83n%20ph%C3%B2ng.png?alt=media&to...32b47c13"
+    },
+    {
+      "PRODUCT_ID": "prd43",
+      "PRODUCT_NAME": "Kẹp bướm",
+      "OTHER_INFORMATION": "Kích thước 19mm, hộp 12 chiếc",
+      "COLOR": "Đen",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FK%E1%BA%B9p%20b%C6%B0%E1%BB%9Bm.jpg?alt=media&tok...4a19d966"
+    },
+    {
+      "PRODUCT_ID": "prd47",
+      "PRODUCT_NAME": "Tẩy bút lông",
+      "OTHER_INFORMATION": "Khả năng xóa tốt, tiện dụng",
+      "COLOR": "Xanh, trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FT%E1%BA%A9y%20b%C3%BAt%20l%C3%B4ng.jpg?alt=media&...25c85d78"
+    },
+    {
+      "PRODUCT_ID": "prd48",
+      "PRODUCT_NAME": "Ghim bướm",
+      "OTHER_INFORMATION": "Hộp 100 chiếc, dễ sử dụng",
+      "COLOR": "Đen",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FGhim%20b%C6%B0%E1%BB%9Bm.jpg?alt=media&token=a69c...31bda84d"
+    },
+    {
+      "PRODUCT_ID": "prd53",
+      "PRODUCT_NAME": "Băng keo Scotch",
+      "OTHER_INFORMATION": "Băng keo trong suốt, 4.8cm, hãng Scotch",
+      "COLOR": "Trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FB%C4%83ng%20keo%20Scotch.jpg?alt=media&token=e9f1...77324e10"
+    },
+    {
+      "PRODUCT_ID": "prd54",
+      "PRODUCT_NAME": "Kéo văn phòng Plus",
+      "OTHER_INFORMATION": "Kéo lưỡi thép không gỉ, hãng Plus",
+      "COLOR": "Xanh, vàng, hồng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://product.hstatic.net/1000362139/product/keo_plus1_aacef331e1c447d5b340d2004b351cdd_grande.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd55",
+      "PRODUCT_NAME": "Bút xóa Uni-ball",
+      "OTHER_INFORMATION": "Dạng lăn, khô nhanh, hãng Uni-ball",
+      "COLOR": "Trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://firebasestorage.googleapis.com/v0/b/tmdt-d62b9.appspot.com/o/D%E1%BB%A5ng%20c%E1%BB%A5%2FB%C3%BAt%20x%C3%B3a%20Uni-ball.jpg?alt=media&toke...39571316"
+    },
+    {
+      "PRODUCT_ID": "prd56",
+      "PRODUCT_NAME": "Hộp kẹp giấy Acco",
+      "OTHER_INFORMATION": "Hộp 100 chiếc, kích thước nhỏ, hãng Acco",
+      "COLOR": "Xanh, đỏ, vàng",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://tictacco.net/VPP/datafiles/setmulti/ACCO/acco_nh___a.jpg"
+    },
+    {
+      "PRODUCT_ID": "prd59",
+      "PRODUCT_NAME": "Bìa nhựa A4 Double A",
+      "OTHER_INFORMATION": "Bìa cứng, chất liệu nhựa trong, hãng Double A",
+      "COLOR": "Đủ màu",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://doublea.vn/uploads/images/bia-20-tui-double-a(1).jpg"
+    },
+    {
+      "PRODUCT_ID": "prd61",
+      "PRODUCT_NAME": "Hộp ghim bấm Kangaro",
+      "OTHER_INFORMATION": "5000 chiếc, loại ghim số 10, hãng Kangaro",
+      "COLOR": "Trắng",
+      "ORIGIN": "China",
+      "IMAGE_URL": "https://down-vn.img.susercontent.com/file/e74bc2ae85e14ae58ee34c49ad3dcf0e"
+    },
+    {
+      "PRODUCT_ID": "prd63",
+      "PRODUCT_NAME": "Bảng trắng Flexoffice",
+      "OTHER_INFORMATION": "Kích thước 60x90cm, có khung nhôm, hãng Flexoffice",
+      "COLOR": "Trắng",
+      "ORIGIN": "Việt Nam",
+      "IMAGE_URL": "https://down-vn.img.susercontent.com/file/c8914ce7a2f28d6e440a3aeac6616409"
+    }
+  ]
+}]
